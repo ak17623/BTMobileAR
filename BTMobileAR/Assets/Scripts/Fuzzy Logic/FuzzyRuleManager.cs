@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
-
 namespace Fuzzy
 {
     public class FuzzyRuleManager
@@ -18,7 +16,6 @@ namespace Fuzzy
             _Antecedents = new List<FuzzyVariable>();
             _Rules = new List<IRule>();
         }
-
 
         public void AddNewAndRule(FuzzyValue ant1, FuzzyValue ant2, FuzzyValue cont)
         {
@@ -41,8 +38,6 @@ namespace Fuzzy
             r.Consequent = cont;
             Rules.Add(r);
         }
-
-
 
         // strings should be like this -> food.Rancid
         public void AddNewRule(string ant1, string ant2, string scont, bool UseAndRule=true)
@@ -167,29 +162,7 @@ namespace Fuzzy
             return value;
         }
 
-        //public string GetConsequentResultString(double result)
-        //{
-        //    if (Consequent == null) return null;
-        //    foreach (FuzzyValue v in Consequent.Values)
-        //    {
-        //        if (v.MF.IsResultInRange(result))
-        //            return v.Name;
-        //    }
-        //    return null;
-        //}
-
-        //public bool IsResultValueInMFConsequent(string sAction, double result)
-        //{
-        //    foreach (FuzzyValue v in Consequent.Values)
-        //    {
-        //        if (string.Compare(v.Name, sAction, true) != 0)
-        //            continue;
-        //        if (v.MF.IsResultInRange(result))
-        //            return true;
-        //    }
-        //    return false;
-        //}
-
+   
         public bool AddNewStringRule(string srule)
         {
             string[] sparts = srule.Split(' ');

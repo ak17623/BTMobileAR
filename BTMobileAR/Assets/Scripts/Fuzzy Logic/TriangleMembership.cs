@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
 
 namespace Fuzzy
 {
@@ -43,16 +39,13 @@ namespace Fuzzy
             }
             if (v < b)
             {
-              //  value = (v - a) / (b - a);
                 value = 1 - (b - v) / (b-a);
             }
             else // v  < d
             {
-             //   value = (c - v) / (c - b);
                 value = 1 - (v - b) / (c-a);
             }
         }
-
 
         public double centroid()
         {
@@ -67,13 +60,5 @@ namespace Fuzzy
             double C = (A1 * C1 + A2 * C2) / (A1 + A2);
             return C;
         }
-
-        //public bool IsResultInRange(double result)
-        //{
-        //    if (a <= result && result <= c)
-        //        return true;
-        //    else
-        //        return false;
-        //}
     }
 }

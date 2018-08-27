@@ -8,10 +8,8 @@ namespace Fuzzy
 {
     public class FuzzyValue
     {
-
         public string Name { get; set; }
-        // read only collection
-        public IMembership MF { get; set; }
+         public IMembership MF { get; set; }
         public FuzzyVariable Parent { get; set; }
 
         public FuzzyValue()

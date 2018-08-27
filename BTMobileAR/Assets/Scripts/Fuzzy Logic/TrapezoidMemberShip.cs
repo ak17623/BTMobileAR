@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
 
 namespace Fuzzy
 {
@@ -48,12 +44,10 @@ namespace Fuzzy
             if (v < b)
             {
                 value = (v - a) / (b - a);
-             //   value = 1 - (b - v) / (b- a);
             }
             else // v  < d && v > c
             {
                 value = (d - v) / (d - c);
-             //   value = 1 - (v - c) / (d-c);
             }
         }
 
@@ -70,13 +64,5 @@ namespace Fuzzy
 
             return Ca;
         }
-
-        //public bool IsResultInRange(double result)
-        //{
-        //    if (b <= result && result <= d)
-        //        return true;
-        //    else
-        //        return false;
-        //}
     }
 }
