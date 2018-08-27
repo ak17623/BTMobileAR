@@ -169,10 +169,10 @@
     <None Include="Assets\MapBoxData\PlayServicesResolver\Editor\play-services-resolver_v1.2.64.0.txt" />
     <None Include="Assets\MapBoxData\GoogleARCore\Editor\AppDependencies.xml" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -343,7 +343,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions.Editor">
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
@@ -430,25 +430,25 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Mapbox.IO.Compression">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/MapBoxData/Mapbox/Core/Plugins/ThirdParty/Mapbox.IO.Compression/net35/Mapbox.IO.Compression.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/MapBoxData/Mapbox/Core/Plugins/ThirdParty/Mapbox.IO.Compression/net35/Mapbox.IO.Compression.dll</HintPath>
     </Reference>
     <Reference Include="Mapbox.Json">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/MapBoxData/Mapbox/Core/Plugins/ThirdParty/Mapbox.Json/Net35/Mapbox.Json.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/MapBoxData/Mapbox/Core/Plugins/ThirdParty/Mapbox.Json/Net35/Mapbox.Json.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.64.0">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.64.0.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.64.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.64.0">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.JarResolver_v1.2.64.0.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.JarResolver_v1.2.64.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.64.0">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.64.0.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/MapBoxData/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.64.0.dll</HintPath>
     </Reference>
     <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
-      <HintPath>D:/GitHub Repos/BTMobileAR/BTMobileAR/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+      <HintPath>D:/GitHub Repos/GitLab/BTMobileAR/BTMobileAR/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/Anestis/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.7/Editor/UnityEditor.Advertisements.dll</HintPath>

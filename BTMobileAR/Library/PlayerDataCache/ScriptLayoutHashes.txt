@@ -1,7 +1,8 @@
 Android
 PlayerPath?
-G:/BT/Repo/BTMobileAR.apk
+D:/GitHub Repos/GitLab/mobilear.apk
 SceneListBegin?
+Assets/Login/Login.unity
 Assets/Login/Welcome.unity
 Assets/Scenes/WorldScaleAR.unity
 Assets/Scenes/Map.unity

@@ -7,6 +7,9 @@ So far the working scenes of the project are the following.
 	Login/Welcome
 	Scenes/WorldScaleAR
 	
+In fodler Other files there are the data from the test performed by the users and
+the MATLAB fuzzy logic model
+	
 	
 The service is using third parties Endpoints from BT & openmap to provide 
 AR Location Services based on BT infrastructur.
